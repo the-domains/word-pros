@@ -1,4 +1,3 @@
-layout_spectrum: 0.6282354642171413
 typography_spectrum: 0.1129754357971251
 color:
   brandStrength: 0.8563423773739487
@@ -6,9 +5,14 @@ color:
   saturation: 0.9738117360975593
   rhythmicContrast: 0.8498888770118356
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.6282354642171413
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0410a5b-b374-4b6c-93ec-558f332df143.png
 name: Word Pros
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14494039-a1da-44e0-a6df-42f799b4c280.jpg
